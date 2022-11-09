@@ -2,9 +2,9 @@
   "name": "websfshandlerassign6",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "src/teenpatti.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/teenpatti.js"
   },
   "keywords": [],
   "author": "",
